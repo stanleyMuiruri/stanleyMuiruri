@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Stanley Muiruri, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">Hi! I'm Stanley Wanjau Muiruri
+I'm an aspiring developer eager to learn and grow in the exciting world of coding. I'm currently sharpening my skills to become a full-fledged developer.</div>  
   
 
 - 🌱 I’m currently learning Django  
@@ -12,7 +13,9 @@
 - ❓ Ask me about anything related to Python and javascript  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+- I'm always open to collaborating on interesting projects! Feel free to reach out to me via email at <a href="stanleywanjau371@gmail.com" target="_blank">stanley wanjau</a> or connect on LinkedIn  <a href="https://www.linkedin.com/in/wanjau-stanley-b8b250269/" target="_blank">linkedIn</a>.
+- For those interested in contributing to my projects, please refer to the contribution guidelines within each repository.
   
 
 <br/>  
@@ -47,7 +50,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+
 
 
 
