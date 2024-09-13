@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/stanleywanjau/stanleywanjau/blob/main/IMG-20240111-WA0155.jpg" style="border-radius: 50%; width: 500px; height: 500px;" alt="Stanley Muiruri" align="center" />
+<img src="https://github.com/stanleywanjau/stanleywanjau/blob/main/DSC_2605.JPG" style="border-radius: 50%; width: 500px; height: 500px;" alt="Stanley Muiruri" align="center" />
 </div>  
   
 
