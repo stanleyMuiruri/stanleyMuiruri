@@ -3,20 +3,56 @@
 </div>  
   
 
-### <div align="center">Hi! I'm Stanley Wanjau Muiruri
-I'm an aspiring developer eager to learn and grow in the exciting world of coding. I'm currently sharpening my skills to become a full-fledged developer.</div>  
-  
+<h1 align="center">👋 Hi, I’m Stanley Wanjau Muiruri</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Python & JavaScript Enthusiast</h3>
 
-- 🌱 I’m currently learning Django  
-  
+<p align="center">
+  <a href="https://github.com/wanjau-stanley">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="mailto:stanleywanjau371@gmail.com">
+    <img src="https://img.shields.io/badge/Email-stanleywanjau371@gmail.com-c14438?logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+  <a href="https://www.linkedin.com/in/wanjau-stanley-b8b250269/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-- ❓ Ask me about anything related to Python and javascript  
-  
+---
 
-- ⚡ Fun fact: I use tabs over spaces
-- I'm always open to collaborating on interesting projects! Feel free to reach out to me via email at <a href="stanleywanjau371@gmail.com" target="_blank">stanley wanjau</a> or connect on LinkedIn  <a href="https://www.linkedin.com/in/wanjau-stanley-b8b250269/" target="_blank">linkedIn</a>.
-- For those interested in contributing to my projects, please refer to the contribution guidelines within each repository.
-  
+## 🌱 Currently Learning
+- **Django**: Building REST APIs & web apps  
+- **TypeScript**: Bringing types to JavaScript  
+- **Testing**: Pytest, Jest
+
+## 🛠️ Tech Stack
+
+| Language        | Frameworks & Libraries      | Tools & Databases      |
+| --------------- | --------------------------- | ---------------------- |
+| Python 🐍       | Django, Flask               | Git, Docker            |
+| JavaScript ⚡️   | React, Node.js, Express     | VS Code, Postman       |
+| HTML & CSS 🎨   | Tailwind CSS, Bootstrap     | PostgreSQL, MongoDB    |
+
+---
+
+## 🔭 What I’m Working On
+- **[Portfolio Site](https://stanleymuiruri.com/)**  
+  Rebuilding my personal site with React, Three js, 3D models
+
+---
+
+## 🤝 Let’s Collaborate!
+I’m always up for interesting projects—particularly anything with open APIs, B2B tools, or data-driven dashboards.  
+Feel free to:
+- ⭐ Star or fork any of my repositories  
+- 🐞 Report issues or suggest features  
+- 📬 Drop me an email: [stanleywanjau371@gmail.com](mailto:stanleywanjau371@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+I use **tabs** over spaces—embracing that horizontal consistency! 😉
+
 
 <br/>  
 
@@ -76,11 +112,18 @@ I'm an aspiring developer eager to learn and grow in the exciting world of codin
 
 
 ## Github Stats  
-<div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stanleymuiruri&show_icons=true&locale=en&layout=compact" alt="stanleywanjau" /></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=stanleymuiruri&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stanleymuiruri&show_icons=true&theme=dark&hide_border=true" alt="Stanley's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=stanleymuiruri&theme=dark&hide_border=true" alt="GitHub Streak" width="49%"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=stanleymuiruri&color=brightgreen" alt="Profile views"/>  
+  <p>Thanks for stopping by! 🚀</p>
+</div>
  
   
 
