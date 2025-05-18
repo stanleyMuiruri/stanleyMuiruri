@@ -78,7 +78,7 @@ I'm an aspiring developer eager to learn and grow in the exciting world of codin
 ## Github Stats  
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stanleymuiruri&show_icons=true&locale=en&layout=compact" alt="stanleywanjau" /></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=stanleywanjau&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=stanleymuiruri&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
  
